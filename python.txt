@@ -1,0 +1,6 @@
+* to print elements in list
+strip()
+list(map(int,input().split())
+a,b = [10,20]
+end = "," -> a b c,
+sep = "," -> a,b,c
